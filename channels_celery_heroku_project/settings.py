@@ -79,7 +79,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'channels_celery_heroku_project.wsgi.application'
+#WSGI_APPLICATION = 'channels_celery_heroku_project.wsgi.application'
 ASGI_APPLICATION = 'channels_celery_heroku_project.asgi.application'
 
 # Database
